@@ -1,9 +1,6 @@
----
-title: " <center> Getting and Cleaning Data - Course Project <br /> README "
-#author: "Ximena Játiva"
-#date: "8/24/2020"
-output: html_document
----
+
+# Getting and Cleaning Data - Course Project
+# README FILE
 
 
 ## Dataset
