@@ -1,9 +1,5 @@
----
-title: "<center> Getting and Cleaning Data - Course Project <br /> CODEBOOK"
-#author: "Ximena Játiva"
-#date: "8/24/2020"
-output: html_document
----
+# Getting and Cleaning Data - Course Project 
+# CODEBOOK"
 
 
 ## Data and project description
